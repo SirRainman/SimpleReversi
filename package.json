@@ -1,0 +1,25 @@
+{
+  "name": "reversi",
+  "version": "1.0.0",
+  "description": "reversi game",
+  "main": "index.js",
+  "dependencies": {
+    "@types/jquery": "^3.3.31",
+    "@types/node": "^13.1.4",
+    "bootstrap": "^4.4.1",
+    "browserify": "^16.5.0",
+    "fs": "0.0.1-security",
+    "jquery": "^3.4.1",
+    "log4js": "^6.1.0",
+    "webpack": "^4.41.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reversi"
+  ],
+  "author": "yhh",
+  "license": "ISC"
+}
